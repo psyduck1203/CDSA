@@ -32,6 +32,20 @@ conda activate cdsaenv
 ```
 ### Install prerequisite libraries
 
+Download requirements.txt file
+
+```
+https://github.com/psyduck1203/Analysis_of_Faculty_Participation_Data/requirements.txt
+
+```
+
+Pip install libraries
+```
+pip install -r requirements.txt
+```
+
+Major libraries required
+
 - [Streamlit](https://streamlit.io/)
 - [Sklearn](https://sklearn.org/)
 - [Numpy](https://numpy.org/)
