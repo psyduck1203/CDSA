@@ -4,7 +4,7 @@
 
 Launch the web app:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/psyduck1203/cdsa/main/app.py)
 
 # Algorithms Implemented
 
