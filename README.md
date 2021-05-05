@@ -35,7 +35,7 @@ conda activate cdsaenv
 Download requirements.txt file
 
 ```
-https://github.com/psyduck1203/Analysis_of_Faculty_Participation_Data/requirements.txt
+https://github.com/psyduck1203/CDSA/requirements.txt
 
 ```
 
